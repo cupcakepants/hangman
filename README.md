@@ -1,10 +1,10 @@
 # hangman
-6.037 project
-Run main.cpp to play hangman. There are three options:
-you can play with the current list of words and chose
-a difficulty, you can add a word to the list of words,
-or you and a friend can play with a word one of you 
-inputs. 
 
-Note: we use relative paths. For some compilers, one 
-may have to edit the the configurations. 
+6.037 project
+
+Run main.cpp to play hangman. 
+
+There are three options: 
+1) Chose one of three difficulties (easy, medium, hard) and play hangman with a random word of that difficulty. 
+2) Add a word to the list of words that a player can play with. 
+3) Play with a word you put in (good for when you are playing with friends)
